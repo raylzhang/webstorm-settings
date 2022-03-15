@@ -1,0 +1,14 @@
+<code_scheme name="Default" version="173">
+  <codeStyleSettings language="HTML">
+    <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
+  </codeStyleSettings>
+  <codeStyleSettings language="JavaScript">
+    <option name="LINE_COMMENT_ADD_SPACE" value="false" />
+  </codeStyleSettings>
+  <codeStyleSettings language="TypeScript">
+    <option name="LINE_COMMENT_ADD_SPACE" value="false" />
+  </codeStyleSettings>
+  <codeStyleSettings language="XML">
+    <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
+  </codeStyleSettings>
+</code_scheme>
