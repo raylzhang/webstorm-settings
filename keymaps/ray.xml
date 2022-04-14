@@ -1,0 +1,15 @@
+<keymap version="1" name="ray" parent="Mac OS X 10.5+">
+  <action id="MethodDown">
+    <keyboard-shortcut first-keystroke="alt j" />
+  </action>
+  <action id="MethodUp">
+    <keyboard-shortcut first-keystroke="alt k" />
+  </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="shift ctrl h" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="shift ctrl l" />
+  </action>
+  <action id="ShowContent" />
+</keymap>
